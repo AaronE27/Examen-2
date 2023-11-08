@@ -1,0 +1,16 @@
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\bin\Debug\net6.0-windows\Converciones.exe
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\bin\Debug\net6.0-windows\Converciones.deps.json
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\bin\Debug\net6.0-windows\Converciones.runtimeconfig.json
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\bin\Debug\net6.0-windows\Converciones.dll
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\bin\Debug\net6.0-windows\Converciones.pdb
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\Converciones.Form1.resources
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\Converciones.csproj.GenerateResource.cache
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\Converciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\Converciones.AssemblyInfoInputs.cache
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\Converciones.AssemblyInfo.cs
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\Converciones.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\Converciones.dll
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\refint\Converciones.dll
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\Converciones.pdb
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\Converciones.genruntimeconfig.cache
+C:\PROGRAMACION 4 IV\parcial 2\Examen 2\Converciones\obj\Debug\net6.0-windows\ref\Converciones.dll
